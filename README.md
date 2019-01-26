@@ -1,8 +1,14 @@
-# TODO LIST com ReactJS
+# Repositórios GitHUB
 
-Este foi o módulo 3 do curso de ReactJS do BootCamp da [RocketSeat](http://www.rocketseat.com.br)
+Este foi o módulo 2 do curso de React Native do BootCamp da [RocketSeat](http://www.rocketseat.com.br)
+
+Aplicativo para adicionar repositórios do GirtHub
 
 Recursos que foram utilizados:
 
-* Redux
+* Axios
 * ReactoTron
+* AsyncStorage
+* TabNavigation
+
+
